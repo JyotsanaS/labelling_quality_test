@@ -1,0 +1,5 @@
+IMG_PATHS = "image_path"
+ANNS_PATH = "ann_path"
+MISTAKESCORE = "mistake_scores"
+S3_BUCKET = "raga-satsure"
+S3_FILE_KEY = "satsure_v0_s.pth"
