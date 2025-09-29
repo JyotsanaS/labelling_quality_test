@@ -1,0 +1,4 @@
+[{
+"dataset_path": "/home/ubuntu/1000GB/ust/ust_demo",
+"embeddings_path": "/home/ubuntu/1000GB/ust/opclip_ustdemo-v2_workflow.json"
+}]

@@ -1,0 +1,4 @@
+[{
+"dataset_path": "/home/ubuntu/1000GB/ust/ust_demo",
+"embeddings_path": "/mnt/g/Raga/CES/nuscenes_US/embeddings_workflow_undefined.json"
+}]
